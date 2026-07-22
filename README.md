@@ -78,13 +78,9 @@ The campaign aligns every stage with Gen-Z expectations through inclusive commun
 
 ## Team
 
-TriAtal
-# Yashu Mittal
-Surya Pratap Singh
-Shree Pathak
-
+TriAtal (ABV-IIITM)
 ---
 
 ## Project Report
 
-See **Project_Report.pdf** for the complete presentation.
+See **Project_Report.pdf** for the descriptive study.
